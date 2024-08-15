@@ -1,7 +1,3 @@
-# Paris-Olympic-Games-2024
-Certainly! Below is a sample `README.md` file that you can use for your Paris 2024 Olympic Summer Games dataset.
-
----
 
 # Paris 2024 Olympic Summer Games Dataset
 
