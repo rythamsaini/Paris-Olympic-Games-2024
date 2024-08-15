@@ -9,7 +9,7 @@ This dataset provides comprehensive information related to the Paris 2024 Olympi
 
 The dataset is composed of several CSV files, each representing different facets of the Paris 2024 Olympic Summer Games. Below is a description of each file:
 
-# 1. events.csv
+# 1. `events.csv`
 - Description: Contains a list of all events in the Paris 2024 Olympic Games, including details such as event names, categories, and associated sports.
 - Columns:
   - `event_id`: Unique identifier for the event.
